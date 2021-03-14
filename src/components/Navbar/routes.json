@@ -1,0 +1,14 @@
+{
+  "routes": [
+    {
+      "label": "GitHub",
+      "href": "https://github.com/Vincent-hide",
+      "external": true
+    },
+    {
+      "label": "Linked In",
+      "href": "https://www.linkedin.com/in/suho/",
+      "external": true
+    }
+  ]
+}

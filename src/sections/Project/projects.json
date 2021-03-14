@@ -1,0 +1,53 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Data Structures & Algorithms",
+      "description": "The core data structure namely linked-list, trees, graphs stack & queue, and hashing with some algorithms coding challenge questions.",
+      "link": false,
+      "git": "https://github.com/Vincent-hide/Data_Structure_JAVA",
+      "icons": ["java", "c", "cpp", "py"]
+    },
+    {
+      "id": 2,
+      "title": "Path Finding",
+      "description": "By utilizing an algorithm of Dijkstra it finds a path. The comparison of Dijkstra and Recursive method can be seen as well.",
+      "link": false,
+      "git": "https://github.com/Vincent-hide/PathFinding-JavaFX",
+      "icons": ["java", "py"]
+    },
+    {
+      "id": 3,
+      "title": "Group Session App",
+      "description": "As a software engineer, my team and I have designed and built a real-time online group session application for George Brown College's research partner.",
+      "details": "In this project, my role was to build and structure the frontend and backend together with teammates, attend weekly meetings to understand the client's needs and design and implement synchronous multimedia functionalities. Since this application heavily depends on each user's role, authorization and authentication were implemented to attend to the client's needs.",
+      "link": false,
+      "git": false,
+      "icons": ["js", "react", "graphql", "express", "mongo"]
+    },
+    {
+      "id": 4,
+      "title": "TMS",
+      "description": "My team and I are building and designing the structure of the Tutoring Management System application for a local community center.",
+      "details": "For a local community center in Toronto, ON, we are building and designing the web application solution for them. The application automates their manual tasks such as registering students and employees and generates the best-matched groups by taking subjects, availabilities, locations, to name but a few, into account.",
+      "git": false,
+      "icons": ["ts", "react", "graphql", "express", "psql"]
+    },
+    {
+      "id": 5,
+      "title": "Task Management",
+      "description": "A Task Management application which follows CRUD and MVC model.",
+      "link": false,
+      "git": "https://github.com/Vincent-hide/TaskManagement-NestReact",
+      "icons": ["ts", "react", "nest", "psql"]
+    },
+    {
+      "id": 6,
+      "title": "Tic Tac Toe",
+      "description": "Unbeatable AI Tic Tac Toe application by using MiniMax algorithm.",
+      "link": false,
+      "git": "https://github.com/Vincent-hide/TicTacToe",
+      "icons": ["c", "py"]
+    }
+  ]
+}

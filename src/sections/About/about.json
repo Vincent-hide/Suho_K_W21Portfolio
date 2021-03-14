@@ -1,0 +1,23 @@
+{
+  "about": {
+    "description": "Hello. I am Suho Kang. Thank you for viewing my portfolio. I am a Korean who was born and raised in Japan. I am capable of speaking Japanese, English and Korean. A long interest in programming languages guided me to enroll in the T127 Computer Programming Analyst Program at George Brown College. What drives me is my passion for Web Development, Data Science, and Desktop/Mobile Application Development. I have competed in the IEEEXtream 13.0, IEEEXtream 12.0 programming competition and our team placed in the top 12% and 18% in the world respectively.",
+    "achievements": [
+      {
+        "id": 0,
+        "detail": "As a software engineer intern, my team developed a web application for a client."
+      },
+      {
+        "id": 1,
+        "detail": "Ran boot camps for Web Development and Object-Oriented-Programming."
+      },
+      {
+        "id": 2,
+        "detail": "Assist Professors during labs and also invigilate students during exams."
+      },
+      {
+        "id": 3,
+        "detail": "Tutor students in the multiple programming languages for more than 2 years."
+      }
+    ]
+  }
+}
