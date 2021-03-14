@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { makeStyles, IconButton, Collapse } from "@material-ui/core";
+import { makeStyles, IconButton, Collapse, Box, Typography } from "@material-ui/core";
 import ArrowDropDownSharpIcon from "@material-ui/icons/ArrowDropDownSharp";
 import Typed from "react-typed";
 // import { Navbar } from "../../components/Navbar";
@@ -65,9 +65,17 @@ export const Header: React.FC = () => {
               typeSpeed={80}
             />
           </div>
-          <div>
-            <h5>Software Engineer</h5>
-          </div>
+          <Box width={500}>
+            <Typography variant="h6">Philosophy</Typography>
+            <Typography paragraph>
+              Enjoying a job with excitement is a dream job for me. Programming
+              is the only time and I forget everything else and focus on one
+              thing with a passion. It is very hard to come up with the best
+              solution but when I think about what you could gain by completing
+              it, it is absolutely worth it. This is the reason why I would love
+              to work as a software engineer.{" "}
+            </Typography>
+          </Box>
 
           <Scroll to={"about"} smooth={true}>
             <IconButton>
